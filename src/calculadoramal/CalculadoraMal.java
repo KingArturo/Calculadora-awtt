@@ -31,13 +31,13 @@ public class CalculadoraMal extends JFrame {
         initBotones();
 
         this.setTitle("Calculadora Mal");
-        this.setSize(200, 250);
+        this.setSize(300, 350);
         this.add(panelprincipal);
 
         panelArriba.add(text);
 
         panelAbajo.setBackground(Color.black);
-        panelArriba.setBackground(new Color(20, 20, 20));
+        panelArriba.setBackground(new Color(30, 30, 30));
         text.setForeground(Color.white);
         text.setFont(new Font("Helvetica", Font.PLAIN, 30));
                
