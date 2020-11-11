@@ -1,4 +1,35 @@
-Bueno la calculadora dispone de 20 botones mas un panel para ver los numeros.
-La calculadora puede hacer sumas, restas, divisiones, multiplicaciones y porcentajes.
-El estilo de la calculadora se lo da un look and feel.
-Tiene dos clases una que se dedica a hacer los calulos y la otra que genera la interface y detecta cuando se pulsa un botón.
+# Calculadora-awt🚀
+La interface dispone de un menu, un label y un panel de botones.
+La calculadora puede pasa de un tema oscuro a un claro.
+## Los calculos que puede realizar la calculadora son:
+```
+-Sumas.
+```
+```
+-Retas.
+```
+```
+-Multiplicaciones.
+```
+```
+-Divisiones.
+```
+```
+-Porcentajes.
+```
+## Clases que tiene⚙️
+### La calculadora dispone de 3 clases:
+_La clase Claculadora.java se encarga de generar la interface grafica, dar estilo a los elementos y detectar las interacciones del usuario._
+_La clase Calculos.java se encarga de realizar los calculos y detectar que tipo de calculo se tiene que realizar._
+## Botones especiales🛠️
+Aparte de los botones comunes la calculadora dispone de tres botones con funciones especiales.
+Los botones son "CE", "C" y "ANT".
+```
+-CE -> Bora todo el numero que esta puesto en la calculadora.
+```
+```
+-C -> borra el último numero que se ha puesto en la calculadora.
+```
+```
+-ANT -> Recoge el resultado de la última operacion para que puedas seguir calculando con el
+```
